@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "http://13.60.166.45:8000";
 
 function createForm(container) {
     container.innerHTML = `
